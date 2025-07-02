@@ -29,32 +29,47 @@ Wireframes are typically created in the early stages of product development and 
 ### 1. **Layout Structure**
 Defines the general arrangement of page elements, such as headers, footers, sidebars, and main content areas.
 
-**Example:**  
-A blog homepage might use a grid layout with a top header, a sidebar on the left, and a scrollable list of articles in the main section. This structure helps users visually prioritize content.
-
----
-
 ### 2. **Navigation**
-Shows how users move through the product, typically including menus, navigation bars, breadcrumbs, and links.
-
-**Example:**  
-A navigation bar at the top of a website might include links like Home, About, Services, and Contact. This gives users quick access to important pages.
-
----
+Shows how users move through the product, including menus, navigation bars, breadcrumbs, and links.
 
 ### 3. **Content Placement**
-Indicates where specific types of content (text, images, videos, etc.) will be positioned on the page.
+Indicates where content types like text, images, or videos are positioned.
 
-**Example:**  
-Placing a large product image on the left with a title, description, and "Buy Now" button on the right draws user attention and encourages action.
+### 4. **Functionality**
+Represents interactive elements like buttons, forms, dropdowns, or sliders.
 
 ---
 
-### 4. **Functionality**
-Represents interactive elements such as buttons, forms, sliders, dropdowns, and links — even if they are not fully functional in the wireframe.
+## 🧾 Types of Wireframes
 
-**Example:**  
-A login page wireframe may include input fields for email and password, along with a "Log In" button. This helps plan user interaction flow before development.
+Wireframes are often categorized by their **level of detail (fidelity)**. The two most common types are:
+
+### 🟡 Low-Fidelity Wireframes
+- **Definition:** Simple sketches or grayscale mockups focused on structure, layout, and flow.
+- **Purpose:** Early-stage planning and brainstorming.
+- **Characteristics:**
+  - Minimal styling
+  - Placeholder text/images
+  - Basic shapes and outlines
+- **When to Use:** During the initial ideation or when presenting concepts to stakeholders for feedback without distracting visual details.
+
+### ⚫ High-Fidelity Wireframes
+- **Definition:** Detailed mockups that closely resemble the final UI, often including real content, images, and exact spacing.
+- **Purpose:** Closer to development, used to finalize design decisions.
+- **Characteristics:**
+  - Real or near-real content
+  - Detailed visuals, spacing, and styling
+  - Clickable elements or interactions (sometimes)
+- **When to Use:** Before handoff to developers or during usability testing.
+
+---
+
+## 🧠 What Type of Wireframe is This?
+
+> _In this section, describe the type of wireframe used in your project._
+
+**Example:**
+> The wireframe used in this project is a **low-fidelity wireframe** created to visualize layout and navigation flow without focusing on design elements like colors or typography. It was used in early-stage discussions to refine the user journey and page structure.
 
 ---
 
